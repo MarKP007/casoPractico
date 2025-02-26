@@ -1,0 +1,6 @@
+[submodule "MSCliente"]
+	path = MSCliente
+	url = https://github.com/MarKP007/MSCliente
+[submodule "MSCuenta"]
+	path = MSCuenta
+	url = https://github.com/MarKP007/MSCuenta
